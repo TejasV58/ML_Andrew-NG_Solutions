@@ -19,7 +19,7 @@
 <img src="predict.PNG"></img>
 
 ## PLotting of model
-<img src="linearModelFigure.PNG"></img>
+<img src="lienarModelFigure.PNG"></img>
 
 ## J vs Iterations
 <img src="J_vs_Iterations.PNG"></img>
